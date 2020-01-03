@@ -1,0 +1,4 @@
+REMOVING PROXY :: If you hit an error saying, issue with network connectivity and you may have it because of proxy --
+  try :
+    npm config rm proxy
+    npm config rm https-proxy
